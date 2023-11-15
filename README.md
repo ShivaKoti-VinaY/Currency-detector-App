@@ -3,13 +3,12 @@ Visually impaired individuals face difficulties in distinguishing different type
 
 currency detector app typically provides several voice outputs to the user. The primary output is the identification of the currency, which is typically displayed on the screen along with the currency's value in the user's preferred currency.
 
-Teachable Machine is a powerful and accessible tool for creating custom machine learning models for a currency detector project. With its intuitive interface and powerful pre-built models, Teachable Machine makes it easy to train and test a machine learning model for currency recognition.![image](https://github.com/ShivaKoti-VinaY/Currency-detector-App/assets/104214901/a699755e-655e-4170-9162-a5fba7867922)
+Teachable Machine is a powerful and accessible tool for creating custom machine learning models for a currency detector project. With its intuitive interface and powerful pre-built models, Teachable Machine makes it easy to train and test a machine learning model for currency recognition.
 
-currency detector app typically provides several voice outputs to the user. The primary output is the identification of the currency, which is typically displayed on the screen along with the currency's value in the user's preferred currency. ![image](https://github.com/ShivaKoti-VinaY/Currency-detector-App/assets/104214901/08b77551-3e44-4357-b081-121748e13c32)
 
+currency detector app typically provides several voice outputs to the user. The primary output is the identification of the currency, which is typically displayed on the screen along with the currency's value in the user's preferred currency. !
 
 ![image](https://github.com/ShivaKoti-VinaY/Currency-detector-App/assets/104214901/2c65479e-90b1-4934-a9f6-6fd001099639)
-
 
 ![image](https://github.com/ShivaKoti-VinaY/Currency-detector-App/assets/104214901/e3a3e58b-dfb9-4e3e-93ae-4161681664c4)
 
